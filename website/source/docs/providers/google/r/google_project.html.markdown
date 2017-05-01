@@ -64,7 +64,6 @@ The following arguments are supported:
     [below](#id-field) for more information about its behaviour.
 
 * `org_id` - (Optional) The numeric ID of the organization this project belongs to.
-    This is required if you are creating a new project.
     Changing this forces a new project to be created.
 
 * `billing_account` - (Optional) The alphanumeric ID of the billing account this project
